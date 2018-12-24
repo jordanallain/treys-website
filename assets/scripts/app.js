@@ -7,5 +7,5 @@
 // require('./example')
 
 $(() => {
-  // your JS code goes here
+  $('h1').on('click', () => { alert("Welcome to Trey's Website!") })
 })

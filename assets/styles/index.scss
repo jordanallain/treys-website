@@ -1,1 +1,13 @@
 @import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+
+body {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sandy_Le%C3%B3n_on_July_25%2C_2012.jpg/520px-Sandy_Le%C3%B3n_on_July_25%2C_2012.jpg');
+  background-size: cover;
+  font-family: "Major Mono Display";
+}
+
+textarea {
+  height: 150px;
+  width: 800px;
+}
